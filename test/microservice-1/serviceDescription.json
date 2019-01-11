@@ -9,6 +9,13 @@
         "parameters": {
           "ssid": "string with Swedish social security number"
         }
+      },
+      {
+        "uri": "/movies/:id",
+        "method": "DELETE",
+        "parameters": {
+          "ssid": "string with Swedish social security number"
+        }
       }
     ],
     "sharedServices": [
